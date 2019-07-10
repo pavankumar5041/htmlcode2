@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+	<title>table3</title>
+</head>
+<body>
+	<table border="1">
+		<tr>
+			<th>A</th>
+			<th>B</th>
+			<th>C</th>
+			<th>D</th>
+		</tr>
+
+		<tr>
+			<td>1</td>
+			<td>1a</td>
+			<td>1b</td>
+			<td>1c</td>
+		</tr>
+
+		<tr>
+			<td>2</td>
+			<td>2a</td>
+			<td>2b</td>
+			<td>2c</td>
+		</tr>
+
+		<tr>
+			<td>3</td>
+			<td>3a</td>
+			<td>3b</td>
+			<td>3c</td>
+		</tr>
+
+		<tr>
+			<td>4</td>
+			<td>4a</td>
+			<td>4b</td>
+			<td>4c</td>
+		</tr>
+	</table>
+</body>
+</html>
